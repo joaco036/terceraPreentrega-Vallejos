@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    margin-left: 15vh;
+    margin-right: 15vh;
+    display: inline-block;
+    background-color: black;
+    height: auto;
+}
+
+main {
+    background-color: white;
+    margin-left: 10vh;
+    margin-right: 10vh;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-bottom: 15%;
+
+}
+
+
+h1 {
+    color: white;
+}
+
+.imgCarrito {
+    height: 10%;
+    width: 10%;
+}
+
+
+.tarjeta {
+    background-color: black;
+    margin: 3%;
+    height: 20vw;
+    width: 25%;
+    text-align: center;
+    display: inline-block;
+    margin: 2%;
+    padding: 2%;
+
+}
+
+img {
+    background-color: white;
+    margin-bottom: 10%;
+    width: 60%;
+    height: 50%;
+
+}
+
+p {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+.carrito{
+    background-color: white;
+    position: absolute;
+    bottom: 5%;
+}
+
+.carrito p {
+    color: black;
+}
+.carrito h2 {
+    color: black;
+}
+
+
+button{
+    background-color: w;
+}
